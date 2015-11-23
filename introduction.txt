@@ -1,0 +1,4 @@
+This is an android app demo about board cover algorithm
+It is totally free so you can download it and change is
+as you want to do.
+Try it!Good lucks!
